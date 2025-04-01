@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm currently a Student in Buisiness Informatiks.
+
+My interests at this time are data analysis and database development,
+but I still have so much too learn: I'm curious where my path takes me
+and what intersts will spark in the future.
 <!--
 **EdwardPineker/EdwardPineker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
